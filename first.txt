@@ -6,4 +6,5 @@ Gitの練習をしていきます。
 ・git status
 ・git diff
 aaaa
+iiiiii
 編集しました
